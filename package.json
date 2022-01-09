@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "DT162G_WS",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,5 +16,8 @@
     "mongoose": "^6.1.4",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
